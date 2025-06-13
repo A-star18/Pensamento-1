@@ -1,8 +1,8 @@
-body {
+body{
     color: black;
 background: babyblue;
 }
 
-header {
+header{
     border: solid 2px blue;
 }
