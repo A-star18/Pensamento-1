@@ -1,4 +1,4 @@
-<body { 
+body { 
     color: white;
     background: black;
     margin: 0px;
@@ -15,5 +15,5 @@ section {
     background: rgb(91, 175, 245);
     padding-bottom: 80px;
     padding-top: 80px;
-    
+    display: flex;
 }
