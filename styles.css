@@ -1,13 +1,13 @@
 body { 
     color: white;
-    background: rgb(122, 167, 235);
+    background: rgb(255, 255, 255);
     margin: 0px;
     font-family: "Dancing Script", cursive;
 }
      
 header { 
     border-bottom: solid 2px rgb(47, 0, 255);
-    padding: 20px;
+    padding: 25px;
     font-size: 32px;
     color: rgb(161, 204, 240);
 }
